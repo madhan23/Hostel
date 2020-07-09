@@ -1,11 +1,5 @@
 #row{
-  border: 3px solid red;
   margin:1vh;
-}
-
-
-#col1,#col2{
-  border: 3px solid black;
 }
 
 #text-banner{
@@ -19,5 +13,5 @@ padding: 20px;
 }
 .suggestListCont{
   width:84%;
-  border: 3px solid black;
+
 }
